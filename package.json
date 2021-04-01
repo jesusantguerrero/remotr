@@ -4,7 +4,7 @@
   "description": "Command line tool to create remote bare repos in Digital Ocean",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo ok"
   },
   "bin": {
     "remotr": "index.js"
