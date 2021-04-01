@@ -1,6 +1,6 @@
 {
   "name": "remotr",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Command line tool to create remote bare repos in Digital Ocean",
   "main": "index.js",
   "scripts": {
